@@ -1,1 +1,4 @@
-# Scrapy_JD-Splash-
+# Scrapy_JDSplash
+爬取京东商城中所有的Python书籍的相关信息
+我们需要用到Splash进行javascript的渲染。
+Splash的具体使用大家可以参考一下崔庆才老师的博客
